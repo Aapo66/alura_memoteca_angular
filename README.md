@@ -1,27 +1,165 @@
-# Memoteca
+# PT-BR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+🧠 Memoteca – Aplicação Angular para Criar, Editar e Favoritar Ideias
 
-## Development server
+Olá! Me chamo Anderson 👋 e sou estudante de Ciência da Computação, sempre buscando evoluir minhas habilidades em desenvolvimento Front-End, especialmente com Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto foi desenvolvido durante o curso “Angular 14: Evoluindo a Aplicação” da Alura, com o objetivo de criar uma aplicação capaz de cadastrar, exibir, editar, excluir e favoritar ideias enviadas pelo usuário.
 
-## Code scaffolding
+🚀 O que está incluído?
+🔹 Funcionalidades Principais
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+✏️ Cadastro de novas ideias
 
-## Build
+📋 Listagem de todas as ideias criadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+⭐ Marcar e desmarcar ideias como favoritas
 
-## Running unit tests
+✏️ Edição de ideias já existentes
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🗑️ Exclusão de ideias
 
-## Running end-to-end tests
+🔄 Atualização dinâmica da lista
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🛠️ Tecnologias Utilizadas
 
-## Further help
+Angular 14
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+TypeScript
+
+HTML
+
+CSS
+
+Angular Router
+
+É necessário ter Node.js e Angular CLI instalados para rodar a aplicação corretamente.
+
+▶️ Como rodar o projeto
+1. Clone este repositório
+git clone 
+
+2. Instale as dependências
+npm install
+
+3. Inicialize a API (backend)
+cd backend
+npm start
+
+4. Rode o servidor Angular
+
+Em outro terminal:
+
+ng serve
+
+5. Acesse no navegador
+http://localhost:4200
+
+📚 Conceitos praticados
+
+Durante o desenvolvimento desse projeto, pratiquei e aprofundei conhecimentos como:
+
+Componentização e organização da aplicação
+
+Comunicação entre componentes
+
+Angular Services
+
+Rotas e navegação
+
+Observables 
+
+Manipulação de formulários (Template e Reactive Forms)
+
+Boas práticas de arquitetura no Angular
+
+Evolução de projeto e refatoração
+
+Este projeto foi essencial para fortalecer minha base em Angular e entender como aplicações reais crescem e se estruturam.
+
+📧 **Email:** [andersonelvis191@gmail.com](mailto:andersonelvis191@gmail.com)   
+🔗 **LinkedIn:** [Anderson Elvis](https://linkedin.com/in/anderson-elvis-8a8406227)
+
+---
+
+# ENGLISH
+
+🧠 Memoteca – Angular Application to Create, Edit, and Favorite Ideas
+
+Hello! My name is Anderson 👋 and I am a Computer Science student, always working to improve my Front-End development skills, especially with Angular.
+
+This project was developed during the “Angular 14: Evolving the Application” course from Alura, with the goal of creating an application capable of registering, displaying, editing, deleting, and favoriting ideas submitted by the user.
+
+🚀 What’s included?
+🔹 Main Features
+
+✏️ Create new ideas
+
+📋 List all created ideas
+
+⭐ Mark and unmark ideas as favorites
+
+✏️ Edit existing ideas
+
+🗑️ Delete ideas
+
+🔄 Dynamic list updates
+
+🛠️ Technologies Used
+
+Angular 14
+
+TypeScript
+
+HTML
+
+CSS
+
+Angular Router
+
+You need to have Node.js and Angular CLI installed to run the application correctly.
+
+▶️ How to run the project
+1. Clone this repository
+git clone
+
+2. Install dependencies
+npm install
+
+3. Start the API (backend)
+cd backend
+npm start
+
+4. Run the Angular development server
+
+In another terminal:
+
+ng serve
+
+5. Open in your browser
+http://localhost:4200
+
+📚 Concepts practiced
+
+During this project, I practiced and deepened concepts such as:
+
+Componentization and application structure
+
+Communication between components
+
+Angular Services
+
+Routing and navigation
+
+Observables
+
+Form handling (Template and Reactive Forms)
+
+Angular architecture best practices
+
+Project evolution and refactoring
+
+📧 **Email:** [andersonelvis191@gmail.com](mailto:andersonelvis191@gmail.com)   
+🔗 **LinkedIn:** [Anderson Elvis](https://linkedin.com/in/anderson-elvis-8a8406227)
+
+This project was essential to strengthen my foundation in Angular and understand how real applications grow and become more structured.
